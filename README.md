@@ -1,7 +1,7 @@
 Example: Graphene + SQLAlchemy + LogicBank
 ==========================================
 
-<button type="button">Click me</button>
+<b style="color: red;">Click me</b>
 
 This example project demos integration between:
 
