@@ -1,6 +1,8 @@
 Example: Graphene + SQLAlchemy + LogicBank
 ==========================================
 
+<button type="button">Click me</button>
+
 This example project demos integration between:
 
 * [Graphene-SQLAlchemy](https://github.com/graphql-python/graphene-sqlalchemy)
