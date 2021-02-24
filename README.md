@@ -1,8 +1,6 @@
 Example: Graphene + SQLAlchemy + LogicBank
 ==========================================
 
-<b style="color: #FF0000;" onclick="alert('Hi')">Click me</b>
-
 This example project demos integration between:
 
 * [Graphene-SQLAlchemy](https://github.com/graphql-python/graphene-sqlalchemy)
