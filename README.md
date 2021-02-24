@@ -3,9 +3,11 @@ Example: Graphene + SQLAlchemy + LogicBank
 
 <b>TEST</b>
 
+<html>
 <script>
   alert('Hi there');
 </script>
+  </html>
 
 This example project demos integration between:
 
