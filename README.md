@@ -2,9 +2,10 @@ Example: Graphene + SQLAlchemy + LogicBank
 ==========================================
 
 <b>TEST</b>
-< script>
+
+<script>
   alert('Hi there');
-</ script>
+</script>
 
 This example project demos integration between:
 
