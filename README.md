@@ -1,7 +1,7 @@
 Example: Graphene + SQLAlchemy + LogicBank
 ==========================================
 
-<b style="color: #FF0000;">Click me</b>
+<b style="color: #FF0000;" onclick="alert('Hi')">Click me</b>
 
 This example project demos integration between:
 
